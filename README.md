@@ -13,3 +13,10 @@ The csv file looks like:
 | because two people are kille...  |  negative  | 
 | ... | ... |
 | Robert Colomb has two full-time... |  negative  | 
+
+## methodology
+
+## references
+<a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
+
+<a href="https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/discussion">IMDB Dataset of 50K Movie Reviews</a>
