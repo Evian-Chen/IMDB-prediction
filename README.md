@@ -29,7 +29,7 @@ The csv file looks like:
 * Training
   * Use the above architecture to train the model.
 
-## references
+## References
 <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
 
 <a href="https://medium.com/ml-note/word-embedding-3ca60663999d">Word Embeddings</a>
